@@ -1,0 +1,9 @@
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\bin\Debug\netcoreapp3.1\SolCharge.Application.deps.json
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\bin\Debug\netcoreapp3.1\SolCharge.Application.dll
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\bin\Debug\netcoreapp3.1\SolCharge.Application.pdb
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\obj\Debug\netcoreapp3.1\SolCharge.Application.csprojAssemblyReference.cache
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\obj\Debug\netcoreapp3.1\SolCharge.Application.AssemblyInfoInputs.cache
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\obj\Debug\netcoreapp3.1\SolCharge.Application.AssemblyInfo.cs
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\obj\Debug\netcoreapp3.1\SolCharge.Application.csproj.CoreCompileInputs.cache
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\obj\Debug\netcoreapp3.1\SolCharge.Application.dll
+D:\SolCharge\New_2-10-2020\SolCharge\SolCharge.Application\obj\Debug\netcoreapp3.1\SolCharge.Application.pdb
